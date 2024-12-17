@@ -1,0 +1,3 @@
+[submodule "mergetry"]
+	path = mergetry
+	url = https://github.com/monisha5458/mergetry.git
